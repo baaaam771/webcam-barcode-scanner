@@ -13,6 +13,6 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python barcode_reader.py
+python barcode_edit3_pixel.py
 ```
 
